@@ -1,0 +1,7 @@
+   College / Branches codes and seats.
+
+                    EE(0)    CE(1)    CSE(2)    CHE(3)    ME(4)
+IIT BOMBAY(0) -      50       10        7         4        15
+IIT DELHI(1) -       12        6        4        22        10
+IIT GUWAHATI(2) -     7       25        3        16        12
+IIT KANPUR(3) -      10       10       30         8         7
